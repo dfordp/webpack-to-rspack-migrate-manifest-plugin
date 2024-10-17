@@ -1,9 +1,4 @@
-
-
-
-## Example
-This codemod turns X into Y. It also does Z.
-Note: this is a contrived example. Please modify it.
+Change import from webpack-manifest-plugin torspack-manifest-plugin.
 
 ### Before
 
